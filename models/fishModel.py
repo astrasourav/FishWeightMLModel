@@ -10,8 +10,7 @@ from sklearn.model_selection import train_test_split, GridSearchCV, cross_val_sc
 # from sklearn.linear_model import Lasso
 # from sklearn.linear_model import Ridge
 # from sklearn.linear_model import ElasticNet
-# from sklearn.ensemble import RandomForestRegressor
-from sklearn.tree import DecisionTreeRegressor
+from sklearn.ensemble import RandomForestRegressor
 from sklearn.metrics import r2_score
 
 # Gettign the dataset
